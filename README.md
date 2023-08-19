@@ -3,8 +3,8 @@
 ## Install (for macOS)
 
 ```bash
-$ brew tap dskecse/tap
-$ brew install --cask mozart2
+brew tap dskecse/tap
+brew install --cask mozart2
 ```
 
 ### Setup VSCode
